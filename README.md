@@ -18,5 +18,5 @@ This repo contains my solutions to basic algorithms in both **C++** and **Python
 | Problem | C++ Code | Python Code |
 |--------|----------|-------------|
 | Bubble Sort | [bubble_sort.cpp](sorting/bubble_sort.cpp) | [bubble_sort.py](sorting/bubble_sort.py) |
-| Merge Sort | [merge_sort.cpp](sorting/mergeSort.cpp) | [merge_sort.py](sorting/merge_sort.py) |
+| Merge Sort | [mergeSort.cpp](sorting/mergeSort.cpp) | [merge_sort.py](sorting/merge_sort.py) |
 | Quick Sort | [quick_sort.cpp](sorting/quick_sort.cpp) | [quick_sort.py](sorting/quick_sort.py) |
